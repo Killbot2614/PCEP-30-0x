@@ -11,9 +11,3 @@ The course covers the fundamental concepts of Python programming and prepares le
 - Basic Data Structures (lists, tuples, dictionaries)
 - Handling Errors and Exceptions
 - Basic Input/Output
-  
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Killbot2614/PCEP-30-0x.git
