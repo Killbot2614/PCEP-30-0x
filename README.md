@@ -8,33 +8,26 @@ The **PCEP certification** validates foundational knowledge of programming conce
 
 ### Key Topics Covered
 
-- **Variables and Data Types**
-  - Data types: integers, floats, strings, booleans
-  - Variable declaration and naming conventions
-  - PEP-8 style guidelines
+- **Computer Programming and Python Fundamentals (18%)**
+  - Fundamental terms and definitions: interpreting and the interpreter, compilation and the compiler, lexis, syntax, and semantics
+  - Python’s logic and structure: keywords, instructions, indentation, comments
+  - Literals and variables: Boolean, integers, floating-point numbers, scientific notation, strings, numeral systems (binary, octal, decimal, hexadecimal), naming conventions, PEP-8 recommendations
+  - Operators and data types: numeric, string, assignment, unary, binary, bitwise, Boolean operators, relational operators, type casting
+  - Input/Output operations: `print()`, `input()`, and related functions
 
-- **Conditional Statements**
-  - `if`, `elif`, and `else` statements
-  - Logical operators: and, or, not
+- **Control Flow (29%)**
+  - Conditional statements: `if`, `if-else`, `if-elif`, nesting conditional statements
+  - Iteration: `for` and `while` loops, controlling loop execution with `break` and `continue`, expanding loops with `while-else` and `for-else`
 
-- **Loops**
-  - `for` and `while` loops
-  - Control statements: break, continue
+- **Data Collections (25%)**
+  - Lists: constructing, indexing, slicing, list methods, comprehensions, iterating through lists
+  - Tuples: indexing, slicing, immutability, differences between tuples and lists
+  - Dictionaries: building, indexing, adding/removing keys, iterating through keys and values
+  - Strings: constructing, indexing, slicing, escaping characters, basic string functions
 
-- **Functions**
-  - Defining and invoking functions
-  - Parameters and return values
-
-- **Data Structures**
-  - Lists, tuples, and dictionaries
-  - Indexing and slicing
-
-- **Error Handling**
-  - Exception types and handling
-  - `try`, `except`, and `finally` blocks
-
-- **Input/Output**
-  - Using `print()` and `input()` functions
+- **Functions and Exceptions (28%)**
+  - Functions: defining, invoking, recursion, the `return` keyword, parameters vs. arguments
+  - Exception handling: Python built-in exceptions hierarchy, using `try`, `except`, and `finally` blocks
 
 ## Resources
 
