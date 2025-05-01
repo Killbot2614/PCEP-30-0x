@@ -18,6 +18,8 @@ Scenario:
 Expected Output:
 Programming***Essentials***in...Python
 """
+
 # Solution
+
 print("Programming","Essentials","in", sep="***", end="...")
-print("Python") 
+print("Python")
