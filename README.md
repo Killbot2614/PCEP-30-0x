@@ -32,7 +32,7 @@ The **PCEP certification** validates foundational knowledge of programming conce
 ## Resources
 
 - [Python Official Documentation](https://docs.python.org/3/)
-- [PCEP Exam Syllabus](https://pythoninstitute.org/certification/pcep-python-certification/)
+- [PCEP Exam](https://pythoninstitute.org/pcep)
 - [PEP 8 – Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 ## Progress Tracking
