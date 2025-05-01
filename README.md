@@ -8,24 +8,24 @@ The **PCEP certification** validates foundational knowledge of programming conce
 
 ### Key Topics Covered
 
-- **Computer Programming and Python Fundamentals (18%)**
+- **Computer Programming and Python Fundamentals**
   - Fundamental terms and definitions: interpreting and the interpreter, compilation and the compiler, lexis, syntax, and semantics
   - Python’s logic and structure: keywords, instructions, indentation, comments
   - Literals and variables: Boolean, integers, floating-point numbers, scientific notation, strings, numeral systems (binary, octal, decimal, hexadecimal), naming conventions, PEP-8 recommendations
   - Operators and data types: numeric, string, assignment, unary, binary, bitwise, Boolean operators, relational operators, type casting
   - Input/Output operations: `print()`, `input()`, and related functions
 
-- **Control Flow (29%)**
+- **Control Flow**
   - Conditional statements: `if`, `if-else`, `if-elif`, nesting conditional statements
   - Iteration: `for` and `while` loops, controlling loop execution with `break` and `continue`, expanding loops with `while-else` and `for-else`
 
-- **Data Collections (25%)**
+- **Data Collections**
   - Lists: constructing, indexing, slicing, list methods, comprehensions, iterating through lists
   - Tuples: indexing, slicing, immutability, differences between tuples and lists
   - Dictionaries: building, indexing, adding/removing keys, iterating through keys and values
   - Strings: constructing, indexing, slicing, escaping characters, basic string functions
 
-- **Functions and Exceptions (28%)**
+- **Functions and Exceptions**
   - Functions: defining, invoking, recursion, the `return` keyword, parameters vs. arguments
   - Exception handling: Python built-in exceptions hierarchy, using `try`, `except`, and `finally` blocks
 
