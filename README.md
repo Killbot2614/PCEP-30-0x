@@ -34,7 +34,3 @@ The **PCEP certification** validates foundational knowledge of programming conce
 - [Python Official Documentation](https://docs.python.org/3/)
 - [PCEP Exam](https://pythoninstitute.org/pcep)
 - [PEP 8 – Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-
-## Progress Tracking
-
-This repository will be updated with completed exercises and study materials as I progress through the certification preparation.
