@@ -1,4 +1,4 @@
-# 2.1.1.19 LAB: Formatting the output 
+# 2.1.1.19 LAB: Formatting the output
 
 """
 Estimated time

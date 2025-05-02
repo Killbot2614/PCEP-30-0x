@@ -1,4 +1,4 @@
-# 2.1.1.18 LAB: The print() function 
+# 2.1.1.18 LAB: The print() function
 
 """
 Estimated time
@@ -21,5 +21,5 @@ Programming***Essentials***in...Python
 
 # Solution
 
-print("Programming","Essentials","in", sep="***", end="...")
+print("Programming", "Essentials", "in", sep="***", end="...")
 print("Python")
