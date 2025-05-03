@@ -7,7 +7,7 @@ This repository contains my work and exercises for the **PCEP - Certified Entry-
 The **PCEP certification** validates foundational knowledge of programming concepts and the Python programming language. This repository includes notes, exercises, and resources aligned with the certification syllabus.
 
 # Progress Graph
-![graph](https://github.com/user-attachments/assets/0871ece9-5d68-48f1-a323-1946c355eb95)
+![image](https://github.com/user-attachments/assets/46fa54ec-3445-4433-b4a8-4a5cfb57e829)
 
 # About The Certification
 <p>
